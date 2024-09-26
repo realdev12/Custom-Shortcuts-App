@@ -15,7 +15,7 @@ public class WalletViewModel extends ViewModel {
   private int mDoubleSixes;
   private int mDoubleOthers;
   private int mPrev;
-  private Die mDie;
+  Die mDie;
 
 //  private static final String KEY_BALANCE = "KEY_BALANCE";
 //  private static final String KEY_SIXES = "KEY_SIXES";

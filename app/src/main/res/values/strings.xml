@@ -8,4 +8,14 @@
   <string name="previous_roll">Previous Roll</string>
   <string name="double_sixes">Double Sixes</string>
   <string name="double_others">Double Others</string>
+  <string-array name="gestures">
+    <item>--SELECT GESTURE--</item>
+    <item>2 finger Swipe</item>
+    <item>3 finger Swipe</item>
+  </string-array>
+  <string-array name="actions">
+    <item>--SELECT ACTION--</item>
+    <item>Change Background Color</item>
+    <item>Change Die Color</item>
+  </string-array>
 </resources>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/body"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -8,6 +9,27 @@
     android:orientation="vertical"
     android:rotation="0"
     tools:context=".WalletActivity">
+
+    <ImageButton
+        android:id="@+id/settings_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="left"
+        android:paddingLeft="10sp"
+        android:paddingTop="20sp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Settings"
+        android:src="@drawable/settings_gear" />
+
+    <Spinner
+        android:id="@+id/drop_down_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10sp"
+        android:layout_gravity="left"
+        android:paddingLeft="10sp"
+        android:visibility="gone"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"
