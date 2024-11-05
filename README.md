@@ -2,6 +2,9 @@
 ### Objective
 This application aims to demonstrate how a user can create custom shortcuts to avoid repetitive actions in a app.
 
+### Tech
+Java app made using Android Studio
+
 ### Description
 A user selects a shortcut type and links it up with a action
 For example, 2 finger swipe can be linked with changing the background color making the acticity easier
