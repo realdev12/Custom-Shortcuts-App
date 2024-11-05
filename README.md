@@ -1,2 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R_7cjhEg)
-# A2-PersistUI
+
+### Objective
+This application aims to demonstrate how a user can create custom shortcuts to avoid repetitive actions in a app.
+
+### Description
+A user selects a shortcut type and links it up with a action
+For example, 2 finger swipe can be linked with changing the background color making the acticity easier
+
+### Advantages
+Custom shortcuts make apps more personalised, also making user's actions faster.
